@@ -1,0 +1,8 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>Student-Management-System</groupId>
+  <artifactId>Student-Management-System</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Student Management System</name>
+  <description>Developing a Java program that enables various faculty members to log in and perform different sets of operations. I am going to use OOP principles and plan to use JDBC and MySQL to further enhance its usability.</description>
+</project>
